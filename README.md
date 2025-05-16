@@ -1,2 +1,2 @@
 # sudoku
-Display a sudoku
+Display a sudoku game. In the making......
